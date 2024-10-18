@@ -37,3 +37,11 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a:hover {
+    color:green
+} 
